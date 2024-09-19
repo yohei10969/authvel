@@ -1,2 +1,3 @@
-# authvel
+# Authvel
 Laravel用Auth認証コードサンプル
+シンボリックリンクによる使用を前提とする
